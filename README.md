@@ -59,8 +59,8 @@
 </hr>
 
 
- <a href="https://github.com/TheChiragRathod" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/TheChiragRathod" ><img src="https://github-readme-stats.vercel.app/api?username=thechiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
+ <a href="https://github.com/ichiragrathod" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/ichiragrathod" ><img src="https://github-readme-stats.vercel.app/api?username=ichiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
 
 
 
