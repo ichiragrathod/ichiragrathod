@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag Rathod 👋
 
-<img src="https://komarev.com/ghpvc/?username=ichiragrathod&label=Views&color=blue&style=plastic" />
+[<img src="https://komarev.com/ghpvc/?username=ichiragrathod&label=Views&color=blue&style=plastic" />](https://github.com/iChiragRathod)
 <img src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif" height="200px" width="200px" />
 
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="350px" width="420px"/> <br/>
