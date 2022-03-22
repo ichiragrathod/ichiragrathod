@@ -22,7 +22,7 @@
 - 💬 Ask me about JAVA, Python Programming or Any Tech related stuff.
 - 📫 How to reach me: [Twitter - @TheChiragRathod](https://twitter.com/TheChiragRathod), [YouTube - Techy ChiRag](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 - 😄 Pronouns: He/Techy ChiRag
-- ⚡ Fun fact: I spend almost 6 hours to watch YouTube Videos everyday.
+- ⚡ Fun fact: Learning is a continuous process.
 
 
 [<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>](https://twitter.com/TheChiragRathod)
